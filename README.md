@@ -24,7 +24,7 @@
 
 ---
 
-Картинка
+![alt text](https://github.com/VladisProtas/Vulnerabilities-and-attacks-on-information-systems/blob/main/Снимок0.PNG)
 
 https://vulners.com/search?query=CVE-2023-2640
 
